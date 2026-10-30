@@ -17,6 +17,8 @@
     "@react-navigation/native-stack": "*",
     "expo": "*",
     "expo-image-picker": "*",
+    "expo-notifications": "~58.1.7",
+    "expo-secure-store": "~58.0.2",
     "expo-status-bar": "*",
     "react": "*",
     "react-native": "*",
